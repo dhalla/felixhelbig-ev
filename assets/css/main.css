@@ -41,7 +41,8 @@ p {
   font-size: 1.3em;
   line-height: 1.5em;
   padding: 0 10em;
-  margin: 0 auto; }
+  margin: 0 auto;
+  text-align: justify; }
   @media screen and (min-width: 0px) and (max-width: 480px) {
     p.multicol {
       column-count: 1;
