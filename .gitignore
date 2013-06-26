@@ -15,6 +15,7 @@ ___Kopie*
 .DS_Store
 _project
 .htaccess
+.sass-cache
 
 # Wordpress
 wp-config.php

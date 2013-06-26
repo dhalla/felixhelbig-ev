@@ -1,0 +1,14 @@
+@import "_mixins";
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    @include typo-headline;
+    text-align:             center;
+    font-size:              4em;
+    margin-top:             20%;
+}
