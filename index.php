@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
-<!--[if lt IE 7 ]> <html lang="en" id="top" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" id="top" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" id="top" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" id="top" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" id="top" class="no-js"> <!--<![endif]-->
+<!--[if lt IE 7 ]> <html lang="de" id="top" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="de" id="top" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="de" id="top" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="de" id="top" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="de" id="top" class="no-js"> <!--<![endif]-->
 
   <head>
 
@@ -42,13 +42,28 @@
         <!-- <h1>Felix Helbig-Gedächtnisverein</h1> -->
     </header>
 
+    <!--
+    <nav>
+        * Elevator Pitch
+        * Wir über uns
+        * Förderung / Bewerbung
+        * Kontakt
+        * Spenden
+        * Newsletter
+        * Events
+        * Mitglieder / Vorstand
+    </nav>
+    -->
+
     <article class="multicol">
-        <img src="/assets/img/BIG_portrait.jpg" alt="Felix Helbig" class="img-polaroid">
+        <img src="/assets/img/BIG_portrait.jpg" alt="Felix Helbig" class="img-polaroid portrait">
         Felix war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Artikel verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit seinem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten. Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker, gab nie auf. Dies zeichnete ihn aus und dafür wollen wir ihm mit dem "Felix Helbig Gedächtnis-Preis" gedenken.
     </article>
 
     <footer>
-        <a href="mailto:info@felixhelbig-ev.de">Kontakt</a>
+        &copy; <?php echo date("Y"); ?> Felix Helbig-Gedächtnisverein e.V. |
+        <a href="mailto:info@felixhelbig-ev.de">Kontakt</a> |
+        <a href="#">Impressum</a>
     </footer>
 
     <!-- JS-Stuff
