@@ -1,6 +1,12 @@
 @import "_mixins";
+@import "_variables";
 
 h1 {
     font-size:      2em;
 }
 
+header img {
+    width: .4em;
+    height: .4em;
+    background-color: red;
+}
