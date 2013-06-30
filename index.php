@@ -16,11 +16,11 @@
     <meta name="description" content="">
     <meta name="author" content="Daniel Haller">
 
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/responsive.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Gentium+Basic:400,700' rel='stylesheet' type='text/css'>
-    <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
 
-    <link href="/assets/css/main.css" rel="stylesheet" type="text/css">
-    <link href="/assets/css/mobile.css" rel="stylesheet" type="text/css" media="screen and (max-width: 720px)">
     <!--[if lt IE 9]>
       <script src="/assets/js/html5shiv.js" %}"></script>
     <![endif]-->
@@ -56,7 +56,7 @@
     -->
 
     <article class="multicol">
-        <img src="/assets/img/BIG_portrait.jpg" alt="Felix Helbig" class="img-polaroid portrait">
+        <img src="/assets/img/BIG_portrait.jpg" alt="Felix Helbig" class="img-rounded img-polaroid portrait pull-left">
         Felix war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Artikel verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit seinem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten. Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker, gab nie auf. Dies zeichnete ihn aus und dafür wollen wir ihm mit dem "Felix Helbig Gedächtnis-Preis" gedenken.
     </article>
 

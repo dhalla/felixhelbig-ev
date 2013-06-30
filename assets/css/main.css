@@ -1,92 +1,50 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-size: 100%/1.5; }
-
 header {
   text-align: center;
   font-size: 4em;
   padding: 1em 0 0.5em 0; }
 
 footer {
-  font-family: "Gentium Basic", "Arial", serif;
-  font-size: 1.3em;
-  line-height: 1.5em;
   text-align: center;
-  font-size: 1em;
   padding-bottom: 2em; }
 
-h1 {
-  color: white;
-  font-family: "Gentium Basic", "Arial", serif;
-  background-color: black;
-  padding: 20px 0;
-  background: #197b30;
-  background: -moz-linear-gradient(top, #197b30 0, #005e20 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #197b30), color-stop(100%, #005e20));
-  background: -webkit-linear-gradient(top, #197b30 0, #005e20 100%);
-  background: -o-linear-gradient(top, #197b30 0, #005e20 100%);
-  background: -ms-linear-gradient(top, #197b30 0, #005e20 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#197b30',endColorstr='#005e20',GradientType=0);
-  background: linear-gradient(top, #197b30 0, #005e20 100%);
-  text-align: center;
-  font-size: 4em;
-  margin-top: 10%; }
-
-h2 {
-  color: white;
-  font-family: "Gentium Basic", "Arial", serif;
-  background-color: black;
-  padding: 20px 0;
-  background: #197b30;
-  background: -moz-linear-gradient(top, #197b30 0, #005e20 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #197b30), color-stop(100%, #005e20));
-  background: -webkit-linear-gradient(top, #197b30 0, #005e20 100%);
-  background: -o-linear-gradient(top, #197b30 0, #005e20 100%);
-  background: -ms-linear-gradient(top, #197b30 0, #005e20 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#197b30',endColorstr='#005e20',GradientType=0);
-  background: linear-gradient(top, #197b30 0, #005e20 100%);
-  text-align: center;
-  font-size: 3em; }
-
 article {
-  font-family: "Gentium Basic", "Arial", serif;
-  font-size: 1.3em;
-  line-height: 1.5em;
   margin: 0 auto;
   text-align: justify;
-  border-top: 1px solid #5dac45; }
-  @media screen and (min-width: 0px) and (max-width: 480px) {
-    article.multicol {
-      column-count: 1;
-      column-gap: 2em;
-      -moz-column-count: 1;
-      -moz-column-gap: 2em;
-      -webkit-column-count: 1;
-      -webkit-column-gap: 2em;
-      padding: 2em 1em; } }
-  @media screen and (min-width: 481px) and (max-width: 979px) {
-    article.multicol {
-      column-count: 2;
-      column-gap: 2em;
-      -moz-column-count: 2;
-      -moz-column-gap: 2em;
-      -webkit-column-count: 2;
-      -webkit-column-gap: 2em;
-      padding: 2em 2em; } }
-  @media only screen and (min-width: 980px) {
-    article.multicol {
-      column-count: 3;
-      column-gap: 2em;
-      -moz-column-count: 3;
-      -moz-column-gap: 2em;
-      -webkit-column-count: 3;
-      -webkit-column-gap: 2em;
-      padding: 2em 6em;
-      max-width: 80%; } }
+  border-top: 1px solid #46a546; }
+  article.multicol {
+    /* Large desktop */
+    /* Portrait tablet to landscape and desktop */
+    /* Landscape phone to portrait tablet */
+    /* Landscape phones and down */ }
+    @media (min-width: 1200px) {
+      article.multicol {
+        column-count: 3;
+        column-gap: 2em;
+        -moz-column-count: 3;
+        -moz-column-gap: 2em;
+        -webkit-column-count: 3;
+        -webkit-column-gap: 2em;
+        padding: 2em 6em;
+        max-width: 80%; } }
+    @media (max-width: 767px) {
+      article.multicol {
+        column-count: 2;
+        column-gap: 2em;
+        -moz-column-count: 2;
+        -moz-column-gap: 2em;
+        -webkit-column-count: 2;
+        -webkit-column-gap: 2em;
+        padding: 2em 2em; } }
+    @media (max-width: 480px) {
+      article.multicol {
+        column-count: 1;
+        column-gap: 2em;
+        -moz-column-count: 1;
+        -moz-column-gap: 2em;
+        -webkit-column-count: 1;
+        -webkit-column-gap: 2em;
+        padding: 2em 1em; } }
   article .portrait {
     width: 6em;
     height: 6em;
-    float: left;
-    margin: 0 1em 0 0;
-    border: 1px solid black; }
+    margin: 0 1em 0 0; }
