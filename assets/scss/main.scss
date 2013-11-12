@@ -1,6 +1,21 @@
 @import "fh_mixins";
 @import "fh_variables";
 
+body {
+
+    padding-top: 70px;
+
+}
+
+p {
+    @include std-typo
+}
+
+h1 {
+    @include typo-headline
+}
+
+
 header {
     text-align:             center;
     font-size:              4em;
@@ -43,7 +58,6 @@ article {
     }
     margin:                 0 auto;
     text-align:             justify;
-    border-top:             1px solid $green;
 
     .portrait {
         width:              6em;

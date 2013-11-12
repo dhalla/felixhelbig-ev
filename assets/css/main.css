@@ -1,3 +1,17 @@
+body {
+  padding-top: 70px; }
+
+p {
+  font-family: "Gentium Basic", "Arial", serif;
+  font-size: 1.3em;
+  line-height: 1.5em; }
+
+h1 {
+  color: white;
+  font-family: "Gentium Basic", "Arial", serif;
+  background-color: black;
+  padding: 20px 0; }
+
 header {
   text-align: center;
   font-size: 4em;
@@ -9,8 +23,7 @@ footer {
 
 article {
   margin: 0 auto;
-  text-align: justify;
-  border-top: 1px solid #46a546; }
+  text-align: justify; }
   article.multicol {
     /* Large desktop */
     /* Portrait tablet to landscape and desktop */
