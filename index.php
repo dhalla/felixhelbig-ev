@@ -71,7 +71,7 @@
   <div class="container main-container">
 
     <header>
-        <img src="http://lorempixel.com/1200/400/nightlife/" class="img-responsive" alt="">
+        <img src="http://lorempixel.com/1200/400/nightlife/2" class="img-responsive" alt="">
     </header>
 
     <article id="party">
@@ -79,14 +79,14 @@
         <h2>Die Party</h2>
 
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-5">
                 <h3>Wann und Wo?</h3>
                 <p>Vestibulum id ligula porta felis euismod semper.</p>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-2">
                 <img src="assets/img/pik-dame.jpg" class="center-block" style="margin-top: 20px">
             </div>
-            <div class="col-md-4">
+            <div class="col-md-5">
                 <h3>Was und warum?</h3>
                 <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
             </div>
@@ -103,7 +103,15 @@
                <img src="assets/img/bicht-2.jpg" class="responsive img-thumbnail" />
             </div>
             <div class="col-md-8">
-                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
+                <p>
+                    Felix war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Artikel verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit seinem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten.
+                </p>
+                <p>
+                    Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker, gab nie auf. Dies zeichnete ihn aus und dafür wollen wir ihm mit dem "Felix Helbig Gedächtnis-Preis" gedenken.
+                </p>
+                <p>
+                    Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                </p>
             </div>
         <div class="row">
 
