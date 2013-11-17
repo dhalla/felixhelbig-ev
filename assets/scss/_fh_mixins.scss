@@ -1,0 +1,33 @@
+@mixin typo-headline {
+    color:                  white;
+    font-family:            "Gentium Basic", "Arial", serif;
+    //background-color:       #3C0000;
+    background-color:       #5C0101;
+    padding:                10px 0 10px 30px;
+}
+
+@mixin std-typo {
+    font-family:            "Gentium Basic", "Arial", serif;
+    font-size:              18px;
+    line-height:            1.5em;
+    color:                  black;
+}
+
+@mixin bg-gradient-green {
+    background:#197b30;
+    background:-moz-linear-gradient(top,#197b30 0,#005e20 100%);
+    background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#197b30),color-stop(100%,#005e20));
+    background:-webkit-linear-gradient(top,#197b30 0,#005e20 100%);
+    background:-o-linear-gradient(top,#197b30 0,#005e20 100%);
+    background:-ms-linear-gradient(top,#197b30 0,#005e20 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#197b30',endColorstr='#005e20',GradientType=0);
+    background:linear-gradient(top,#197b30 0,#005e20 100%);
+}
+
+@mixin multi-col-text($cols: 3, $colgap: 2em) {
+    column-count: $cols;
+    column-gap: $colgap;
+    -moz-column-count: $cols;
+    -moz-column-gap: $colgap;
+    -webkit-column-count: $cols;
+    -webkit-column-gap: $colgap;
+}

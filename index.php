@@ -8,7 +8,7 @@
 
 <head>
 
-  <title>Felix Helbig-Gedächtnisverein</title>
+  <title>TAUNUS.ECKE.ELBE</title>
 
   <meta charset="utf-8">
 
@@ -57,10 +57,9 @@
       <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
 
         <ul class="nav navbar-nav">
-          <li class="active"><a href="#hl_party">Die Party</a></li>
-          <li class=""><a href="#hl_felix">Wer war Felix?</a></li>
-          <li class=""><a href="#tests">Was andere sagen</a></li>
-          <li class=""><a href="#hl_where">Wann und wo?</a></li>
+          <li class="active"><a href="#party">Die Party</a></li>
+          <li class=""><a href="#felix">Wer war Felix?</a></li>
+          <li class=""><a href="#links">Was andere sagen</a></li>
         </ul>
 
       </div><!-- /.navbar-collapse -->
@@ -68,52 +67,84 @@
 
   </nav>
 
-
   <!-- Main-Content / Scroller -->
-  <div class="container">
+  <div class="container main-container">
 
-    <img src="http://lorempixel.com/1200/400/nightlife/" class="img-responsive" alt="">
+    <header>
+        <img src="http://lorempixel.com/1200/400/nightlife/" class="img-responsive" alt="">
+    </header>
 
-    <h1 id="hl_party">Die Party</h1>
+    <article id="party">
 
-    <p>Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum id ligula porta felis euismod semper.</p>
+        <h2>Die Party</h2>
 
-    <h1 id="hl_felix">Wer war Felix</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <h3>Wann und Wo?</h3>
+                <p>Vestibulum id ligula porta felis euismod semper.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="assets/img/pik-dame.jpg" class="center-block" style="margin-top: 20px">
+            </div>
+            <div class="col-md-4">
+                <h3>Was und warum?</h3>
+                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
+            </div>
+        </div>
 
-    <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+    </article>
 
-    <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
-    <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+    <article id="felix">
 
-    <h1 id="tests">Was andere sagen</h1>
+        <h2>Wer war Felix?</h2>
 
-    <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-    <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-    <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-    <p>Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus.Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec id elit non mi porta gravida at eget metus.</p>
-    <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <div class="row">
+            <div class="col-md-4">
+               <img src="assets/img/bicht-2.jpg" class="responsive img-thumbnail" />
+            </div>
+            <div class="col-md-8">
+                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
+            </div>
+        <div class="row">
 
-    <h1 id="hl_where">Wann und wo?</h1>
+    </article>
 
-    <p>Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus.Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec id elit non mi porta gravida at eget metus.</p>
-    <p>Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus.Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec id elit non mi porta gravida at eget metus.</p>
+    <article id="links">
 
-    <p>Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus.Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec id elit non mi porta gravida at eget metus.</p>
-    <p>Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus.Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec id elit non mi porta gravida at eget metus.</p>
+        <h2>Was andere sagen</h2>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Freunde und Kollegen</h3>
+                <ul>
+                    <li><a href="http://scotchklub.de/index.php/tag/felix" target="_blank">Nachrufe von Freunden</a></li>
+                    <li><a href="http://www.fr-online.de/abschied-von-felix-helbig/frankfurter-rundschau-nachruf-auf-felix-helbig,21828358,21850160.html" target="_blank">Nachruf der Frankfurter Rundschau</a></li>
+                    <li><a href="http://www.fr-online.de/abschied-von-felix-helbig/21828358,21828358.html" target="_blank">Special der Frankfurter Rundschau zu seinem Tod</a></li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <h3>Seine Arbeit</h3>
+                <ul>
+                    <li><a href="http://www.fr-online.de/vorwuerfe-gegen-polizei/rassismus-polizei-frankfurt-ihr-seid-hier-nicht-in-afrika,20810664,20797476.html" target="_blank">Rassismus Polizei Frankfurt / Ihr seid hier nicht in Afrika</a></li>
+                    <li><a href="http://www.fr-online.de/frankfurt/roma-in-frankfurt-tagesreisen,1472798,17640378.html" target="_blank">Roma in Frankfurt / Tagesreisen</a></li>
+                    <li><a href="http://www.fr-online.de/freizeittipps/polsterabend-auf-dem-eigenen-sofa-lob-der-faulheit,1474298,5039492.html" target="_blank">Polsterabend auf dem eigenen Sofa / Lob der eigenen Faulheit</a></li>
+                    <li><a href="http://www.fr-online.de/-em-2012/live-reportage-zur-fussball-em-lemberg-ist-anders,16262616,16391506.html" target="_blank">Live-Reportage zur Fussball-WM / Lemberg ist anders</a></li>
+                </ul>
+                <p>Natürlich hat Felix in seinen Jahren bei der Rundschau erheblich mehr geschrieben - in dem Special sind sämtliche seiner Artikel verlinkt.</p>
+            </div>
+        </div>
+
+    </article>
 
     <hr>
 
     <footer>
-      <p>&copy; Company 2013</p>
+      <p>&copy; TAUNUS.ECKE.ELBE 2013 | <a href="impressum.php">Impressum</a></p>
     </footer>
-
-    <p style="height:200px"></p>
 
   </div><!-- /.container -->
 
-  <!-- Bootstrap core JavaScript
-  ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
+  <!-- Bootstrap core JavaScript -->
   <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
 
