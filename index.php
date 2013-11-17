@@ -147,7 +147,32 @@
     <hr>
 
     <footer>
-      <p>&copy; TAUNUS.ECKE.ELBE 2013 | <a href="impressum.php">Impressum</a></p>
+        <p>&copy; TAUNUS.ECKE.ELBE 2013 | <a href="#" data-toggle="modal" data-target="#imprint">Impressum</a></p>
+
+        <!-- Modal -->
+        <div class="modal fade" id="imprint" tabindex="-1" >
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <h3>Impressum</h3>
+                <p>
+                    Diese Website ist ein privates Angebot von:
+                    <br><br>
+                    Daniel Haller (V.i.S.d.P)<br>
+                    Wendelsweg 4<br>
+                    60599 Frankfurt
+                    <br><br>
+                    Telefon: 069 97690526<br>
+                    Mobil: 0163 5677633<br>
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Impressum schließen</button>
+              </div>
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
     </footer>
 
   </div><!-- /.container -->

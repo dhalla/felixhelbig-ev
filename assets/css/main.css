@@ -74,6 +74,9 @@ a:hover {
 .main-container {
   background-color: white; }
 
+.modal {
+  text-align: left; }
+
 article {
   margin: 0 auto;
   text-align: justify; }
