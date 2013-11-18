@@ -57,7 +57,7 @@
       <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
 
         <ul class="nav navbar-nav">
-          <li class="active"><a href="#party">Die Party</a></li>
+          <li class="active"><a href="#party">Party</a></li>
           <li class=""><a href="#felix">Wer war Felix?</a></li>
           <li class=""><a href="#links">Was andere sagen</a></li>
         </ul>
@@ -71,23 +71,31 @@
   <div class="container main-container">
 
     <header>
-        <img src="http://lorempixel.com/1200/400/nightlife/2" class="img-responsive" alt="">
+        <img src="assets/img/bg_header.jpg" class="img-responsive" alt="29.11. PIK DAME, FFM" width="1140">
     </header>
 
     <article id="party">
 
-        <h2>Die Party</h2>
+        <h2>Party</h2>
 
         <div class="row">
-            <div class="col-md-5">
-                <h3>Wann und Wo?</h3>
-                <p>Vestibulum id ligula porta felis euismod semper.</p>
+            <div class="col-md-6">
+                <h3>TAUNUS.ECKE.ELBE</h3>
+                <p>
+                  <strong>29.11. // PIK-DAME FFM // 23:00 Uhr</strong>
+                  <br>Music: <a href="https://www.facebook.com/LarryVanHousen">Cologner (Larry van Housen)</a>
+                </p>
+                <iframe style="margin-top: 25px " class="center-block" width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.de/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Pik-Dame,+Elbestra%C3%9Fe,+Frankfurt+am+Main&amp;aq=0&amp;oq=pik+dame&amp;sll=50.072482,8.248353&amp;sspn=0.395307,0.891953&amp;t=m&amp;ie=UTF8&amp;hq=Pik-Dame,&amp;hnear=Elbestra%C3%9Fe,+60329+Frankfurt+am+Main&amp;ll=50.11096,8.668664&amp;spn=0.004816,0.00912&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br />
             </div>
+            <!--
             <div class="col-md-2">
                 <img src="assets/img/pik-dame.jpg" class="center-block" style="margin-top: 20px">
             </div>
-            <div class="col-md-5">
+            -->
+            <div class="col-md-6">
                 <h3>Was und warum?</h3>
+                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
+                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
                 <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
             </div>
         </div>
@@ -162,7 +170,6 @@
                     Wendelsweg 4<br>
                     60599 Frankfurt
                     <br><br>
-                    Telefon: 069 97690526<br>
                     Mobil: 0163 5677633<br>
                 </p>
               </div>
