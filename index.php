@@ -41,7 +41,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://www.taunuseckeelbe.de">
   <meta property="og:image" content="http://www.taunuseckeelbe.de/assets/img/logo_fb.jpg">
-  <meta property="og:description" content="Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!">
+  <meta property="og:description" content="29.11. // 23:00 // Pik-Dame FFM // Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!">
   <meta property="og:site_name" content="TAUNUS.ECKE.ELBE">
 
 </head>
@@ -89,25 +89,6 @@
         <div class="row">
 
             <div class="col-md-1"></div>
-            <div class="col-md-5">
-                <h3>Was und warum?</h3>
-                <p>
-                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
-                  <br>Kommt alle!
-                </p>
-                <!-- AddThis Button BEGIN -->
-                <div class="addthis_toolbox addthis_default_style ">
-                  <a class="addthis_button_preferred_1"></a>
-                  <a class="addthis_button_preferred_2"></a>
-                  <a class="addthis_button_preferred_3"></a>
-                  <a class="addthis_button_preferred_4"></a>
-                  <a class="addthis_button_compact"></a>
-                  <a class="addthis_counter addthis_bubble_style"></a>
-                </div>
-                <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528d24364aa25d49"></script>
-                <!-- AddThis Button END -->
-            </div>
 
             <div class="col-md-5">
                 <h3>TAUNUS.ECKE.ELBE</h3>
@@ -158,6 +139,27 @@
                 </div><!-- /.modal -->
 
             </div>
+
+            <div class="col-md-5">
+                <h3>Was und warum?</h3>
+                <p>
+                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
+                  <br>Kommt alle!
+                </p>
+                <!-- AddThis Button BEGIN -->
+                <div class="addthis_toolbox addthis_default_style ">
+                  <a class="addthis_button_preferred_1"></a>
+                  <a class="addthis_button_preferred_2"></a>
+                  <a class="addthis_button_preferred_3"></a>
+                  <a class="addthis_button_preferred_4"></a>
+                  <a class="addthis_button_compact"></a>
+                  <a class="addthis_counter addthis_bubble_style"></a>
+                </div>
+                <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528d24364aa25d49"></script>
+                <!-- AddThis Button END -->
+            </div>
+
             <div class="col-md-1"></div>
 
         </div>
