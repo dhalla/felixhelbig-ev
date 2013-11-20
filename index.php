@@ -4,7 +4,7 @@
 <!--[if IE 7 ]>    <html lang="de" id="top" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="de" id="top" class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="de" id="top" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="de" id="top" class="no-js"> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="de" id="top" class="no-js" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
 
 <head>
 
@@ -22,6 +22,7 @@
 
   <!-- Latest compiled and minified JavaScript -->
   <link href="//fonts.googleapis.com/css?family=Gentium+Basic:400,700" rel="stylesheet" type="text/css">
+  <link href='//fonts.googleapis.com/css?family=Oswald:300|Gafata' rel='stylesheet' type='text/css'>
 
   <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -35,6 +36,13 @@
   <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
   <link rel="shortcut icon" href="../assets/ico/favicon.png">
   -->
+
+  <meta property="og:title" content="TAUNUS.ECKE.ELBE">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://www.taunuseckeelbe.de">
+  <meta property="og:image" content="http://www.taunuseckeelbe.de/assets/img/logo.jpg">
+  <meta property="og:description" content="Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!">
+  <meta property="og:site_name" content="TAUNUS.ECKE.ELBE">
 
 </head>
 
@@ -79,25 +87,79 @@
         <h2>Party</h2>
 
         <div class="row">
-            <div class="col-md-6">
-                <h3>TAUNUS.ECKE.ELBE</h3>
-                <p>
-                  <strong>29.11. // PIK-DAME FFM // 23:00 Uhr</strong>
-                  <br>Music: <a href="https://www.facebook.com/LarryVanHousen">Cologner (Larry van Housen)</a>
-                </p>
-                <iframe style="margin-top: 25px " class="center-block" width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.de/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Pik-Dame,+Elbestra%C3%9Fe,+Frankfurt+am+Main&amp;aq=0&amp;oq=pik+dame&amp;sll=50.072482,8.248353&amp;sspn=0.395307,0.891953&amp;t=m&amp;ie=UTF8&amp;hq=Pik-Dame,&amp;hnear=Elbestra%C3%9Fe,+60329+Frankfurt+am+Main&amp;ll=50.11096,8.668664&amp;spn=0.004816,0.00912&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br />
-            </div>
-            <!--
-            <div class="col-md-2">
-                <img src="assets/img/pik-dame.jpg" class="center-block" style="margin-top: 20px">
-            </div>
-            -->
-            <div class="col-md-6">
+
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
                 <h3>Was und warum?</h3>
-                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
-                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
-                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.</p>
+                <p>
+                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
+                  <br>Kommt alle!
+                </p>
+                <!-- AddThis Button BEGIN -->
+                <div class="addthis_toolbox addthis_default_style ">
+                  <a class="addthis_button_preferred_1"></a>
+                  <a class="addthis_button_preferred_2"></a>
+                  <a class="addthis_button_preferred_3"></a>
+                  <a class="addthis_button_preferred_4"></a>
+                  <a class="addthis_button_compact"></a>
+                  <a class="addthis_counter addthis_bubble_style"></a>
+                </div>
+                <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528d24364aa25d49"></script>
+                <!-- AddThis Button END -->
             </div>
+
+            <div class="col-md-5">
+                <h3>TAUNUS.ECKE.ELBE</h3>
+                <dl class="dl-horizontal">
+                  <dt>Wo</dt>
+                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Pik-Dame FFM</a></dd>
+                  <dt>Musik</dt>
+                  <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. Big Hits.</a></dd>
+                  <dt>Einlass</dt>
+                  <dd>Ab 23:00 Uhr</dd>
+                </dl>
+
+                <!-- Larry van Housen -->
+                <div class="modal fade" id="larryvanhousen" tabindex="-1" >
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header center-block">
+                        <img src="/assets/img/larryvanhousen.jpg" alt="Larry van Housen" class="img-responsive">
+                      </div>
+                      <div class="modal-body">
+                        <p>
+                          Ihr habt es hier mit der LaNok-Zwei-Mann-Party-Armee Tilmann Köllner und Amin Fallaha zu tun. Auch im Frankfurter Rotlichtviertel genießen die beiden einen ähnlich legendenumrankten Ruf, denn wenn sie dort mal wieder ihren Stammladen, die Pik Dame, auseinandernehmen, wissen die Jungs und Mädels an der Theke, dass heute keine Kehle trocken bleibt:
+                          Lässt man das Larry-van-Housen-DJ-Team an die Plattenspieler, darf man sich Warm-up und Afterparty getrost schenken. Hier gibt’s ausschließlich Hits! Egal ob aktuelle Kracher oder alter Kram im neuen Gewand, Hauptsache der Sound ist fresh und die Tanzfläche kocht.
+                        </p>
+                        <p>Amin Fallaha kennt man als Mitbegründer der alles vernichtenden Vodka-und-Wasser-Partys, LaNok Mitbegründer und DJ. Tilmann Köllner ist ebenfalls nicht nur DJ (T. Cologner), sondern auch Radio-Moderator und Teil der Band Wagner Love. </p>
+                        <p>Liebe Mütter, sperrt besser eure Töchter weg, Larry van Housen sind in der Stadt.</p>
+                        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FLarryVanHousen%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=100&amp;appId=312582552188555" style="border:none; overflow:hidden; height:100px;"></iframe>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
+                      </div>
+                    </div><!-- /.modal-content -->
+                  </div><!-- /.modal-dialog -->
+                </div><!-- /.modal -->
+
+                <!-- Pik Dame -->
+                <div class="modal fade" id="pikdame" tabindex="-1" >
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-body center-block">
+                        <iframe class="center-block" width="450" height="450" src="https://maps.google.de/maps?q=pik+dame+frankfurt&amp;ie=UTF8&amp;hq=pik+dame&amp;hnear=Frankfurt,+Darmstadt,+Hessen&amp;t=m&amp;ll=50.111937,8.668213&amp;spn=0.012385,0.019312&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
+                      </div>
+                    </div><!-- /.modal-content -->
+                  </div><!-- /.modal-dialog -->
+                </div><!-- /.modal -->
+
+            </div>
+            <div class="col-md-1"></div>
+
         </div>
 
     </article>
@@ -108,21 +170,29 @@
 
         <div class="row">
             <div class="col-md-4">
-               <img src="assets/img/bicht-2.jpg" class="responsive img-thumbnail" />
+               <img src="assets/img/bicht-2.jpg" class="responsive img-thumbnail" alt="Felix Helbig" />
             </div>
             <div class="col-md-8">
                 <p>
-                    Felix war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Artikel verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit seinem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten.
+                  Felix Helbig wurde am 29.11.1981 geboren und fing schon mit 16 Jahren bei der Frankfurter Rundschau an. Schnell konnte er sich dort einen Namen machen und nach seinem Studium wurde er als Journalist eingestellt. Er lebte viele Jahre im pulsierenden Frankfurter Bahnhofsviertel. Am 13.02.2013 starb unser Freund leider plötzlich und viel zu früh. Viele Menschen in und um Frankfurt vermissen Ihn, seine Familie und Freunde genauso wie seine zahlreichen Leser bei der Frankfurter Rundschau. An dem Tag als Felix beerdigt wurde, wurde seine Zeitung, wie er sie gerne bezeichnete, verkauft.
                 </p>
                 <p>
-                    Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker, gab nie auf. Dies zeichnete ihn aus und dafür wollen wir ihm mit dem "Felix Helbig Gedächtnis-Preis" gedenken.
+                  Felix der Journalist war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Arbeiten verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit einem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten, zeichneten Ihn aus und sorgten für Freude bei vielen Lesern.
                 </p>
                 <p>
-                    Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                  Felix war ein großartiger Freund und fantastischer Mensch. Sein einmaliger Humor gepaart mit seiner ehrlichen Herzlichkeit zeichneten Ihn aus. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit Ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.
+                </p>
+                <p>
+                  Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker und gab nie auf.
+                </p>
+                <p>
+                  Wir wollen gemeinsam seinen Geburtstag feiern. Am 29.11.2013 wäre Felix 33 Jahre alt geworden.
+                </p>
+                <p>
+                  Um seine Arbeit auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party an <a href="http://www.investigate-ev.net">Investigate e.V.</a> spenden. Dieser Verein unterstützt Menschen die wie Felix über den Tellerrand schauen, klärt auf und fördert Journalisten.
                 </p>
             </div>
-        <div class="row">
-
+        </div>
     </article>
 
     <article id="links">
@@ -130,7 +200,8 @@
         <h2>Was andere sagen</h2>
 
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
                 <h3>Freunde und Kollegen</h3>
                 <ul>
                     <li><a href="http://scotchklub.de/index.php/tag/felix" target="_blank">Nachrufe von Freunden</a></li>
@@ -138,16 +209,17 @@
                     <li><a href="http://www.fr-online.de/abschied-von-felix-helbig/21828358,21828358.html" target="_blank">Special der Frankfurter Rundschau zu seinem Tod</a></li>
                 </ul>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <h3>Seine Arbeit</h3>
                 <ul>
-                    <li><a href="http://www.fr-online.de/vorwuerfe-gegen-polizei/rassismus-polizei-frankfurt-ihr-seid-hier-nicht-in-afrika,20810664,20797476.html" target="_blank">Rassismus Polizei Frankfurt / Ihr seid hier nicht in Afrika</a></li>
-                    <li><a href="http://www.fr-online.de/frankfurt/roma-in-frankfurt-tagesreisen,1472798,17640378.html" target="_blank">Roma in Frankfurt / Tagesreisen</a></li>
-                    <li><a href="http://www.fr-online.de/freizeittipps/polsterabend-auf-dem-eigenen-sofa-lob-der-faulheit,1474298,5039492.html" target="_blank">Polsterabend auf dem eigenen Sofa / Lob der eigenen Faulheit</a></li>
-                    <li><a href="http://www.fr-online.de/-em-2012/live-reportage-zur-fussball-em-lemberg-ist-anders,16262616,16391506.html" target="_blank">Live-Reportage zur Fussball-WM / Lemberg ist anders</a></li>
+                    <li><a href="http://www.fr-online.de/vorwuerfe-gegen-polizei/rassismus-polizei-frankfurt-ihr-seid-hier-nicht-in-afrika,20810664,20797476.html" target="_blank">Rassismus Polizei Frankfurt / <br> Ihr seid hier nicht in Afrika</a></li>
+                    <li><a href="http://www.fr-online.de/frankfurt/roma-in-frankfurt-tagesreisen,1472798,17640378.html" target="_blank">Roma in Frankfurt / <br> Tagesreisen</a></li>
+                    <li><a href="http://www.fr-online.de/freizeittipps/polsterabend-auf-dem-eigenen-sofa-lob-der-faulheit,1474298,5039492.html" target="_blank">Polsterabend auf dem eigenen Sofa / <br> Lob der eigenen Faulheit</a></li>
+                    <li><a href="http://www.fr-online.de/-em-2012/live-reportage-zur-fussball-em-lemberg-ist-anders,16262616,16391506.html" target="_blank">Live-Reportage zur Fussball-WM / <br> Lemberg ist anders</a></li>
                 </ul>
                 <p>Natürlich hat Felix in seinen Jahren bei der Rundschau erheblich mehr geschrieben - in dem Special sind sämtliche seiner Artikel verlinkt.</p>
             </div>
+            <div class="col-md-1"></div>
         </div>
 
     </article>

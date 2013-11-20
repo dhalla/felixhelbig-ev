@@ -1,9 +1,17 @@
 @mixin typo-headline {
     color:                  white;
-    font-family:            "Gentium Basic", "Arial", serif;
+    font-family:            "Oswald", "Arial", serif;
     //background-color:       #3C0000;
     background-color:       #5C0101;
     padding:                10px 0 10px 30px;
+}
+
+@mixin typo-subheadline {
+    color:                  black;
+    font-family:            "Oswald", "Arial", serif;
+    //background-color:       #3C0000;
+    font-size:              16px;
+    padding-left:           10px;
 }
 
 @mixin std-typo {

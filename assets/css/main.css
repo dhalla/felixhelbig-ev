@@ -3,7 +3,7 @@ body {
   position: relative;
   background: url(../img/bg_pattern.png); }
 
-p, ul, li {
+p, ul, li, dl {
   font-family: "Gentium Basic", "Arial", serif;
   font-size: 18px;
   line-height: 1.5em;
@@ -11,15 +11,15 @@ p, ul, li {
 
 h1, h2 {
   color: white;
-  font-family: "Gentium Basic", "Arial", serif;
+  font-family: "Oswald", "Arial", serif;
   background-color: #5C0101;
   padding: 10px 0 10px 30px; }
 
 h3 {
-  font-family: "Gentium Basic", "Arial", serif;
-  font-size: 18px;
-  line-height: 1.5em;
   color: black;
+  font-family: "Oswald", "Arial", serif;
+  font-size: 16px;
+  padding-left: 10px;
   font-size: 25px;
   border-bottom: 1px solid black; }
 
@@ -35,6 +35,10 @@ header {
 footer {
   text-align: right;
   padding-bottom: 30em; }
+
+.nav li {
+  font-family: "Oswald", "Arial", serif;
+  font-size: 20px; }
 
 a {
   color: #890000; }
