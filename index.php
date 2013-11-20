@@ -40,7 +40,7 @@
   <meta property="og:title" content="TAUNUS.ECKE.ELBE">
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://www.taunuseckeelbe.de">
-  <meta property="og:image" content="http://www.taunuseckeelbe.de/assets/img/logo.jpg">
+  <meta property="og:image" content="http://www.taunuseckeelbe.de/assets/img/logo_fb.jpg">
   <meta property="og:description" content="Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!">
   <meta property="og:site_name" content="TAUNUS.ECKE.ELBE">
 
