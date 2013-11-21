@@ -121,7 +121,7 @@
                         <p>
                           Liebe Mütter, sperrt besser eure Töchter weg, Larry van Housen sind in der Stadt.
                         </p>
-                        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FLarryVanHousen%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=100&amp;appId=312582552188555" style="border:none; overflow:hidden; height:100px;"></iframe>
+                        <iframe class="center-block" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FLarryVanHousen%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=100&amp;appId=312582552188555" style="border:none; overflow:hidden; height:100px;"></iframe>
                       </div>
                       <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
@@ -142,7 +142,7 @@
                         <p>
                         <img src="/assets/img/pik-dame/pik2.jpg" alt="Pik-Dame" class="img-responsive img-thumbnail">
                         </p>
-                        <iframe class="center-block" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fnachtclub.Pik.Dame&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true&amp;appId=312582552188555" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:258px;" allowTransparency="true"></iframe>
+                        <iframe class="center-block" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fnachtclub.Pik.Dame&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true&amp;appId=312582552188555" style="border:none; overflow:hidden; height:258px;"></iframe>
 
                       </div>
                       <div class="modal-footer">
