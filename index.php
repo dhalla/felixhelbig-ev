@@ -110,11 +110,17 @@
                       </div>
                       <div class="modal-body">
                         <p>
-                          Ihr habt es hier mit der LaNok-Zwei-Mann-Party-Armee Tilmann Köllner und Amin Fallaha zu tun. Auch im Frankfurter Rotlichtviertel genießen die beiden einen ähnlich legendenumrankten Ruf, denn wenn sie dort mal wieder ihren Stammladen, die Pik Dame, auseinandernehmen, wissen die Jungs und Mädels an der Theke, dass heute keine Kehle trocken bleibt:
-                          Lässt man das Larry-van-Housen-DJ-Team an die Plattenspieler, darf man sich Warm-up und Afterparty getrost schenken. Hier gibt’s ausschließlich Hits! Egal ob aktuelle Kracher oder alter Kram im neuen Gewand, Hauptsache der Sound ist fresh und die Tanzfläche kocht.
+                          Ihr habt es hier mit der LaNok-Zwei-Mann-Party-Armee Tilmann Köllner (cologner) und Amin Fallaha zu tun.
+                          Lässt man das Larry-van-Housen-DJ-Team an die Plattenspieler, darf man sich Warm-up und Afterparty getrost schenken.
+                          Hier gibt’s ausschließlich Hits! Egal ob aktuelle Kracher oder alter Kram im neuen Gewand, Hauptsache der Sound ist fresh und die Tanzfläche kocht.
                         </p>
-                        <p>Amin Fallaha kennt man als Mitbegründer der alles vernichtenden Vodka-und-Wasser-Partys, LaNok Mitbegründer und DJ. Tilmann Köllner ist ebenfalls nicht nur DJ (T. Cologner), sondern auch Radio-Moderator und Teil der Band Wagner Love. </p>
-                        <p>Liebe Mütter, sperrt besser eure Töchter weg, Larry van Housen sind in der Stadt.</p>
+                        <p>
+                          Amin Fallaha kennt man als Mitbegründer der alles vernichtenden Vodka-und-Wasser-Partys, LaNok Mitbegründer und DJ.
+                          Tilmann Köllner ist ebenfalls nicht nur DJ (cologner), sondern auch Radio-Moderator und Teil der Band Wagner Love.
+                        </p>
+                        <p>
+                          Liebe Mütter, sperrt besser eure Töchter weg, Larry van Housen sind in der Stadt.
+                        </p>
                         <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FLarryVanHousen%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=100&amp;appId=312582552188555" style="border:none; overflow:hidden; height:100px;"></iframe>
                       </div>
                       <div class="modal-footer">
@@ -176,16 +182,18 @@
             </div>
             <div class="col-md-8">
                 <p>
-                  Felix Helbig wurde am 29.11.1981 geboren und fing schon mit 16 Jahren bei der Frankfurter Rundschau an. Schnell konnte er sich dort einen Namen machen und nach seinem Studium wurde er als Journalist eingestellt. Er lebte viele Jahre im pulsierenden Frankfurter Bahnhofsviertel. Am 13.02.2013 starb unser Freund leider plötzlich und viel zu früh. Viele Menschen in und um Frankfurt vermissen Ihn, seine Familie und Freunde genauso wie seine zahlreichen Leser bei der Frankfurter Rundschau. An dem Tag als Felix beerdigt wurde, wurde seine Zeitung, wie er sie gerne bezeichnete, verkauft.
+                  Felix Helbig wurde am 29.11.1981 geboren und fing schon mit 16 Jahren bei der Frankfurter Rundschau an. Schnell konnte er sich dort einen Namen machen und nach seinem Studium wurde er als Journalist eingestellt. Er lebte viele Jahre im pulsierenden Frankfurter Bahnhofsviertel.
+                </p>
+                <p>
+                  Am 13.02.2013 starb unser Freund leider plötzlich und viel zu früh. Viele Menschen in und um Frankfurt vermissen Ihn, seine Familie und Freunde genauso wie seine zahlreichen Leser bei der Frankfurter Rundschau. An dem Tag als Felix beerdigt wurde, wurde seine Zeitung, wie er sie gerne bezeichnete, verkauft.
                 </p>
                 <p>
                   Felix der Journalist war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Arbeiten verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit einem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten, zeichneten Ihn aus und sorgten für Freude bei vielen Lesern.
                 </p>
                 <p>
-                  Felix war ein großartiger Freund und fantastischer Mensch. Sein einmaliger Humor gepaart mit seiner ehrlichen Herzlichkeit zeichneten Ihn aus. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit Ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.
-                </p>
+                  Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker und gab nie auf.                </p>
                 <p>
-                  Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker und gab nie auf.
+                  Felix war ein großartiger Freund und fantastischer Mensch. Sein einmaliger Humor gepaart mit seiner ehrlichen Herzlichkeit zeichneten Ihn aus. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit Ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.
                 </p>
                 <p>
                   Wir wollen gemeinsam seinen Geburtstag feiern. Am 29.11.2013 wäre Felix 33 Jahre alt geworden.
