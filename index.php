@@ -79,7 +79,7 @@
   <div class="container main-container">
 
     <header>
-        <img src="assets/img/bg_header.jpg" class="img-responsive" alt="29.11. PIK DAME, FFM" width="1140">
+        <img src="/assets/img/bg_header-text.jpg" class="img-responsive" alt="29.11. PIK DAME, FFM" width="1140">
     </header>
 
     <article id="party">
@@ -94,7 +94,7 @@
                 <h3>TAUNUS.ECKE.ELBE</h3>
                 <dl class="dl-horizontal">
                   <dt>Wo</dt>
-                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Pik-Dame FFM</a></dd>
+                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></dd>
                   <dt>Musik</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. Big Hits.</a></dd>
                   <dt>Einlass</dt>
@@ -135,7 +135,15 @@
                   <div class="modal-dialog">
                     <div class="modal-content">
                       <div class="modal-body center-block">
-                        <iframe class="center-block" width="450" height="450" src="https://maps.google.de/maps?q=pik+dame+frankfurt&amp;ie=UTF8&amp;hq=pik+dame&amp;hnear=Frankfurt,+Darmstadt,+Hessen&amp;t=m&amp;ll=50.111937,8.668213&amp;spn=0.012385,0.019312&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+
+                        <p>
+                        <img src="/assets/img/pik-dame/pik1.jpg" alt="Pik-Dame" class="img-responsive img-thumbnail">
+                        </p>
+                        <p>
+                        <img src="/assets/img/pik-dame/pik2.jpg" alt="Pik-Dame" class="img-responsive img-thumbnail">
+                        </p>
+                        <iframe class="center-block" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fnachtclub.Pik.Dame&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true&amp;appId=312582552188555" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:258px;" allowTransparency="true"></iframe>
+
                       </div>
                       <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
@@ -149,8 +157,7 @@
             <div class="col-md-5">
                 <h3>Was und warum?</h3>
                 <p>
-                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
-                  <br>Kommt alle!
+                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!
                 </p>
                 <!-- AddThis Button BEGIN -->
                 <div class="addthis_toolbox addthis_default_style ">
@@ -182,24 +189,23 @@
             </div>
             <div class="col-md-8">
                 <p>
-                  Felix Helbig wurde am 29.11.1981 geboren und fing schon mit 16 Jahren bei der Frankfurter Rundschau an. Schnell konnte er sich dort einen Namen machen und nach seinem Studium wurde er als Journalist eingestellt. Er lebte viele Jahre im pulsierenden Frankfurter Bahnhofsviertel.
+                  Felix Helbig wurde am 29.11.1980 geboren und fing schon mit 16 Jahren bei der Frankfurter Rundschau an. Schnell konnte er sich dort einen Namen machen und nach seinem Studium wurde er als Journalist eingestellt. Er lebte viele Jahre im pulsierenden Frankfurter Bahnhofsviertel.
                 </p>
                 <p>
-                  Am 13.02.2013 starb unser Freund leider plötzlich und viel zu früh. Viele Menschen in und um Frankfurt vermissen Ihn, seine Familie und Freunde genauso wie seine zahlreichen Leser bei der Frankfurter Rundschau. An dem Tag als Felix beerdigt wurde, wurde seine Zeitung, wie er sie gerne bezeichnete, verkauft.
+                  Am 13.02.2013 starb unser Freund leider plötzlich und viel zu früh. Viele Menschen in und um Frankfurt vermissen ihn, seine Familie und Freunde, genauso wie zahlreiche Leser der Frankfurter Rundschau. Am Tag seiner Beerdiung wurde "seine Zeitung", wie Felix sie gerne bezeichnete, verkauft.
                 </p>
                 <p>
-                  Felix der Journalist war ein Mensch der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und hervorragend einzuschätzen. Er ließ nicht locker, er erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Arbeiten verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit einem leichten, unterschwelligem Sarkasmus gepaart, die selten ihre Wirkung verfehlten, zeichneten Ihn aus und sorgten für Freude bei vielen Lesern.
+                  Felix, der Journalist, war ein Mensch, der mit offenen Ohren und wachem Blick durchs Leben streifte. Seine Fähigkeiten lagen darin, Situationen rasch zu erkennen und hervorragend einzuschätzen. Er ließ nicht locker, erkannte Ungerechtigkeiten und brachte sie immer wieder zu Papier. Trotzdem gelang ihm dies mit einer gewissen Lockerheit, nie waren seine Arbeiten verbissen oder schossen über das Ziel hinaus. Klare Worte, oft mit einem leichten, unterschwelligen Sarkasmus gepaart, die selten ihre Wirkung verfehlten, zeichneten ihn aus und sorgten für Freude bei vielen Lesern.
                 </p>
                 <p>
-                  Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker und gab nie auf.                </p>
+                  Mit seinen investigativen Reportagen setzte er Zeichen. Er klärte auf, regte zum Nachdenken an, erzeugte Wut und Traurigkeit und warf Fragen auf. Er bohrte, ließ nicht locker und gab nie auf.
                 <p>
-                  Felix war ein großartiger Freund und fantastischer Mensch. Sein einmaliger Humor gepaart mit seiner ehrlichen Herzlichkeit zeichneten Ihn aus. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit Ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.
+                  Felix war ein großartiger Freund und fantastischer Mensch, mit einmaligem Humor und einer ehrlichen Herzlichkeit. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.                </p>
+                <p>
+                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2013 wäre Felix 33 Jahre alt geworden.
                 </p>
                 <p>
-                  Wir wollen gemeinsam seinen Geburtstag feiern. Am 29.11.2013 wäre Felix 33 Jahre alt geworden.
-                </p>
-                <p>
-                  Um seine Arbeit auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party an <a href="http://www.investigate-ev.net">Investigate e.V.</a> spenden. Dieser Verein unterstützt Menschen die wie Felix über den Tellerrand schauen, klärt auf und fördert Journalisten.
+                  Um seine Arbeit auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party an <a href="http://www.investigate-ev.net">Investigate e.V.</a> spenden. Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen aufklären und Journalisten fördern.
                 </p>
             </div>
         </div>
@@ -237,14 +243,14 @@
     <hr>
 
     <footer>
-        <p>&copy; TAUNUS.ECKE.ELBE 2013 | <a href="#" data-toggle="modal" data-target="#imprint">Impressum</a></p>
+        <p>&copy; TAUNUS.ECKE.ELBE 2013 | <a href="#" data-toggle="modal" data-target="#anbieter">Anbieter</a></p>
 
         <!-- Modal -->
-        <div class="modal fade" id="imprint" tabindex="-1" >
+        <div class="modal fade" id="anbieter" tabindex="-1" >
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-body">
-                <h3>Impressum</h3>
+                <h3>Anbieter-Kennzeichnung</h3>
                 <p>
                     Diese Website ist ein privates Angebot von:
                     <br><br>
@@ -256,7 +262,7 @@
                 </p>
               </div>
               <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Impressum schließen</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
               </div>
             </div><!-- /.modal-content -->
           </div><!-- /.modal-dialog -->
