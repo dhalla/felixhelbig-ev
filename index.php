@@ -254,11 +254,14 @@
                 <p>
                     Diese Website ist ein privates Angebot von:
                     <br><br>
-                    Daniel Haller (V.i.S.d.P)<br>
+                    Daniel Haller<br>
                     Wendelsweg 4<br>
                     60599 Frankfurt
                     <br><br>
-                    Mobil: 0163 5677633<br>
+                    Mobil: 0163 5677633
+                    <br><br>
+                    <hr>
+                    Bilder von Ullrich Mattner, flickr: <a href="http://flic.kr/p/9hU1aw">http://flic.kr/p/9hU1aw</a>
                 </p>
               </div>
               <div class="modal-footer">
