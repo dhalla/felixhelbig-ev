@@ -103,7 +103,7 @@
 
                 <p>
                   <strong>Das war's, die Party ist gelaufen.</strong><br>
-                  Wir werden wie angekündigt unsere Einnahmen von diesem Abend an <a href="http://www.investigate-ev.net/">Investige e.V.</a> spenden.
+                  Wir werden wie angekündigt unsere Einnahmen von diesem Abend an <a href="http://www.investigate-ev.net/">Investigate e.V.</a> spenden.
                   Es war uns eine große Freude, mit Euch allen zu feiern.
                 </p>
 
