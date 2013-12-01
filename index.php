@@ -84,7 +84,7 @@
 
     <article id="party">
 
-        <h2>Party</h2>
+        <h2><del>Party</del></h2>
 
         <div class="row">
 
@@ -93,13 +93,19 @@
             <div class="col-md-5">
                 <h3>TAUNUS.ECKE.ELBE</h3>
                 <dl class="dl-horizontal">
-                  <dt>Wo</dt>
-                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></dd>
-                  <dt>Musik</dt>
-                  <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. Big Hits.</a></dd>
-                  <dt>Einlass</dt>
-                  <dd>Ab 23:00 Uhr</dd>
+                  <dt><del>Wo</del></dt>
+                  <dd><del><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></del></dd>
+                  <dt><del>Musik</del></dt>
+                  <dd><del><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. Big Hits.</a></del></dd>
+                  <dt><del>Einlass</del></dt>
+                  <dd><del>Ab 23:00 Uhr</del></dd>
                 </dl>
+
+                <p>
+                  <strong>Das war's, die Party ist gelaufen.</strong><br>
+                  Wir werden wie angekündigt unsere Einnahmen von diesem Abend an <a href="http://www.investigate-ev.net/">Investige e.V.</a> spenden.
+                  Es war uns eine große Freude, mit Euch allen zu feiern.
+                </p>
 
                 <!-- Larry van Housen -->
                 <div class="modal fade" id="larryvanhousen" tabindex="-1" >
