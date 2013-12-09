@@ -79,7 +79,9 @@
   <div class="container main-container">
 
     <header>
+        <!--
         <img src="/assets/img/bg_header-text.jpg" class="img-responsive" alt="29.11. PIK DAME, FFM" width="1140">
+        -->
     </header>
 
     <article id="party">
