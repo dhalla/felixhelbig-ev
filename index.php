@@ -268,8 +268,10 @@
                     <br><br>
                     Mobil: 0163 5677633
                     <br><br>
+                    <!--
                     <hr>
                     Bilder von Ullrich Mattner, flickr: <a href="http://flic.kr/p/9hU1aw">http://flic.kr/p/9hU1aw</a>
+                    -->
                 </p>
               </div>
               <div class="modal-footer">
