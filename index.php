@@ -159,6 +159,8 @@
                 <p>
                   Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!
                 </p>
+                <h3>Never forget!</h3>
+                <p>Auch fast zwei Jahre nach seinem Tod wollen wir ihn nicht vergessen. Bei der selben Veranstaltung im letzten Jahr kamen über 1000,- zusammen, die in seinem Namen gespendet wurden. Lasst uns versuchen, das zu wiederholen!</p>
                 <!-- AddThis Button BEGIN -->
                 <div class="addthis_toolbox addthis_default_style ">
                   <a class="addthis_button_preferred_1"></a>
