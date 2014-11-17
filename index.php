@@ -67,6 +67,7 @@
         <ul class="nav navbar-nav">
           <li class="active"><a href="#party">Party</a></li>
           <li class=""><a href="#felix">Wer war Felix?</a></li>
+          <li class=""><a href="#charity">Charity</a></li>
           <li class=""><a href="#links">Was andere sagen</a></li>
         </ul>
 
@@ -79,7 +80,7 @@
   <div class="container main-container">
 
     <header>
-        <img src="/assets/img/bg_header-text.jpg" class="img-responsive" alt="29.11. PIK DAME, FFM" width="1140">
+        <img src="/assets/img/tee_2014.jpg" class="img-responsive" alt="05.12. PIK DAME, FFM" width="1140">
     </header>
 
     <article id="party">
@@ -95,6 +96,8 @@
                 <dl class="dl-horizontal">
                   <dt>Wo</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></dd>
+                  <dt>Wann</dt>
+                  <dd>Am 5. Dezember 2014</dd>
                   <dt>Musik</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. Big Hits.</a></dd>
                   <dt>Einlass</dt>
@@ -160,7 +163,7 @@
                   Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!
                 </p>
                 <h3>Never forget!</h3>
-                <p>Auch fast zwei Jahre nach seinem Tod wollen wir ihn nicht vergessen. Bei der selben Veranstaltung im letzten Jahr kamen über 1000,- zusammen, die in seinem Namen gespendet wurden. Lasst uns versuchen, das zu wiederholen!</p>
+                <p>Auch fast zwei Jahre nach seinem Tod wollen wir nicht vergessen. <a href="#charity">Bei der gleichen Veranstaltung im vorherigen Jahr kamen über 1000,- zusammen, die in Felix' Namen gespendet wurden.</a> Lasst uns das wiederholen!</p>
                 <!-- AddThis Button BEGIN -->
                 <div class="addthis_toolbox addthis_default_style ">
                   <a class="addthis_button_preferred_1"></a>
@@ -204,13 +207,36 @@
                 <p>
                   Felix war ein großartiger Freund und fantastischer Mensch, mit einmaligem Humor und einer ehrlichen Herzlichkeit. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.                </p>
                 <p>
-                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2013 wäre Felix 33 Jahre alt geworden.
-                </p>
-                <p>
-                  Um seine Arbeit auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party an <a href="http://www.investigate-ev.net">Investigate e.V.</a> spenden. Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen aufklären und Journalisten fördern.
+                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2014 wäre Felix 34 Jahre alt geworden.
                 </p>
             </div>
         </div>
+    </article>
+
+    <article id="charity">
+
+        <h2>Charity</h2>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+              <h3>2013</h3>
+              <p>
+                Um seine Arbeit auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie im vorherigen Jahr spenden.
+              </p>
+              <p>
+                Damals konnten wir 1000 Euro an Investigate e.V. überweisen (<a href="http://www.investigate-ev.net/presse/presse-mitteilungen/" target="_blank">Pressemitteilung von Investigate e.V.</a>).
+                Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen aufklären und Journalisten fördern.
+              <p>
+            </div>
+            <div class="col-md-5">
+                <h3>2014</h3>
+            <p>
+              Auch in diesem Jahr möchten wir einen gemeinnützigen mit einer Spende aus den Einnahmen der Veranstaltung unterstützen.
+            </p>
+        </div>
+        <div class="col-md-1"></div>
+
     </article>
 
     <article id="links">
@@ -263,7 +289,7 @@
                     Mobil: 0163 5677633
                     <br><br>
                     <hr>
-                    Bilder von Ullrich Mattner, flickr: <a href="http://flic.kr/p/9hU1aw">http://flic.kr/p/9hU1aw</a>
+                    Bilder mit freundlicher Genehmigung von Ullrich Mattner, flickr: <a href="http://flic.kr/p/9hU1aw">http://flic.kr/p/9hU1aw</a>
                 </p>
               </div>
               <div class="modal-footer">
