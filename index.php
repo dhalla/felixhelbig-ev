@@ -117,11 +117,11 @@
 
                         <p>Larry van Housen wurde nach einer durchtanzten Nacht auf einem Hotelzimmer hoch in den Alpen geboren, als der Radiomacher Tilmann Köllner und der DJ Amin Fallaha bis zum Morgengrauen Ping-Pong spielten - mit Musik!</p>
 
-                        <p>“Das größte Kompliment ist eine tanzwütige Crowd, die vom längst vergessenen 70er-Soul-Hit bis zum aktuellen Underground-Track alles verschlingt, was wir Ihnen durch die Ohren in die Gliedmaßen schicken. Wenn es kein Aufhören gibt!” – Amin Fallaha</p>
+                        <p>“Das größte Kompliment ist eine tanzwütige Crowd, die vom längst vergessenen 70er-Soul-Hit bis zum aktuellen Underground-Track alles verschlingt, was wir Ihnen durch die Ohren in die Gliedmaßen schicken. Wenn es kein Aufhören gibt!” <br> – Amin Fallaha</p>
 
                         <p>Jeder kennt den Moment mit Freunden, wo aus dem Nichts ein rauschendes Fest entsteht. Im eigenen Wohnzimmer, in der Lieblingsbar, am Strand oder auf dem Autobahnparkplatz auf den Weg in den Süden. Larry van Housen bringt diese Momente auf die Tanzfläche. Jede Nacht ist anders. Keine Regeln. Keine Angst vor Peinlichkeit. Nur das Takt- und Stilgefühl zweier Freunde, die die Musik mehr lieben als alles andere in der Welt.</p>
 
-                        <p>“Im Radio ist alles indirekt, verzögert. Du erfährst nur indirekt, ob Du den Nerv triffst. Auf der Tanzfläche ist das anders. Und mit Larry van Housen erst Recht. Hier bekennen wir uns zum Wahnsinn und zelebrieren die grenzenlose Freiheit. Ein bebender Dance-Floor ist die beste Antwort für alle Kopfmenschen und Stil-Diktatoren :)” – Tilmann Köllner</p>
+                        <p>“Im Radio ist alles indirekt, verzögert. Du erfährst nur indirekt, ob Du den Nerv triffst. Auf der Tanzfläche ist das anders. Und mit Larry van Housen erst Recht. Hier bekennen wir uns zum Wahnsinn und zelebrieren die grenzenlose Freiheit. Ein bebender Dance-Floor ist die beste Antwort für alle Kopfmenschen und Stil-Diktatoren :)” <br> – Tilmann Köllner</p>
 
                         <iframe class="center-block" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FLarryVanHousen%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=100&amp;appId=312582552188555" style="border:none; overflow:hidden; height:100px;"></iframe>
 
