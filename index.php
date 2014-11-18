@@ -99,7 +99,7 @@
                   <dt>Wann</dt>
                   <dd>Am 5. Dezember 2014</dd>
                   <dt>Musik</dt>
-                  <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. Big Hits.</a></dd>
+                  <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. NO RULES DISCO.</a></dd>
                   <dt>Einlass</dt>
                   <dd>Ab 23:00 Uhr</dd>
                 </dl>
@@ -112,19 +112,19 @@
                         <img src="/assets/img/larryvanhousen.jpg" alt="Larry van Housen" class="img-responsive">
                       </div>
                       <div class="modal-body">
-                        <p>
-                          Ihr habt es hier mit der LaNok-Zwei-Mann-Party-Armee Tilmann Köllner (cologner) und Amin Fallaha zu tun.
-                          Lässt man das Larry-van-Housen-DJ-Team an die Plattenspieler, darf man sich Warm-up und Afterparty getrost schenken.
-                          Hier gibt’s ausschließlich Hits! Egal ob aktuelle Kracher oder alter Kram im neuen Gewand, Hauptsache der Sound ist fresh und die Tanzfläche kocht.
-                        </p>
-                        <p>
-                          Amin Fallaha kennt man als Mitbegründer der alles vernichtenden Vodka-und-Wasser-Partys, LaNok Mitbegründer und DJ.
-                          Tilmann Köllner ist ebenfalls nicht nur DJ (cologner), sondern auch Radio-Moderator und Teil der Band Wagner Love.
-                        </p>
-                        <p>
-                          Liebe Mütter, sperrt besser eure Töchter weg, Larry van Housen sind in der Stadt.
-                        </p>
+
+                        <h3>NO RULES DISCO. Dirty. Sexy. Funky.</h3>
+
+                        <p>Larry van Housen wurde nach einer durchtanzten Nacht auf einem Hotelzimmer hoch in den Alpen geboren, als der Radiomacher Tilmann Köllner und der DJ Amin Fallaha bis zum Morgengrauen Ping-Pong spielten - mit Musik!</p>
+
+                        <p>“Das größte Kompliment ist eine tanzwütige Crowd, die vom längst vergessenen 70er-Soul-Hit bis zum aktuellen Underground-Track alles verschlingt, was wir Ihnen durch die Ohren in die Gliedmaßen schicken. Wenn es kein Aufhören gibt!” – Amin Fallaha</p>
+
+                        <p>Jeder kennt den Moment mit Freunden, wo aus dem Nichts ein rauschendes Fest entsteht. Im eigenen Wohnzimmer, in der Lieblingsbar, am Strand oder auf dem Autobahnparkplatz auf den Weg in den Süden. Larry van Housen bringt diese Momente auf die Tanzfläche. Jede Nacht ist anders. Keine Regeln. Keine Angst vor Peinlichkeit. Nur das Takt- und Stilgefühl zweier Freunde, die die Musik mehr lieben als alles andere in der Welt.</p>
+
+                        <p>“Im Radio ist alles indirekt, verzögert. Du erfährst nur indirekt, ob Du den Nerv triffst. Auf der Tanzfläche ist das anders. Und mit Larry van Housen erst Recht. Hier bekennen wir uns zum Wahnsinn und zelebrieren die grenzenlose Freiheit. Ein bebender Dance-Floor ist die beste Antwort für alle Kopfmenschen und Stil-Diktatoren :)” – Tilmann Köllner</p>
+
                         <iframe class="center-block" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FLarryVanHousen%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=100&amp;appId=312582552188555" style="border:none; overflow:hidden; height:100px;"></iframe>
+
                       </div>
                       <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
@@ -226,13 +226,14 @@
               </p>
               <p>
                 Damals konnten wir 1000 Euro an Investigate e.V. überweisen (<a href="http://www.investigate-ev.net/presse/presse-mitteilungen/" target="_blank">Pressemitteilung von Investigate e.V.</a>).
-                Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen aufklären und Journalisten fördern.
+                Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen, aufklären und Journalisten fördern.
               <p>
             </div>
             <div class="col-md-5">
                 <h3>2014</h3>
             <p>
-              Auch in diesem Jahr möchten wir einen gemeinnützigen mit einer Spende aus den Einnahmen der Veranstaltung unterstützen.
+              Auch in diesem Jahr möchten wir einen gemeinnützigen Verein mit einer Spende aus den Einnahmen der Veranstaltung unterstützen.
+              Noch sind wir auf der Suche bzw. mit der Auswahl beschäftigt, wissen aber sicher bald mehr.
             </p>
         </div>
         <div class="col-md-1"></div>
