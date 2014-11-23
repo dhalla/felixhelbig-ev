@@ -235,7 +235,7 @@
               Auch in diesem Jahr möchten wir eine gemeinnützige Stiftung mit einer Spende aus den Einnahmen der Veranstaltung unterstützen: Die der Frankfurter Rundschau nahestehende <a href="http://www.karl-gerold-stiftung.de/" target="_blank">Karl-Gerold-Stiftung</a>.
               </p>
             <p>
-              Die Karl-Gerold-Stiftung vergibt Stipendien an junge Nachwuchs-Journalisten und fördert deren Ausbildungsstätten.
+              Die Karl-Gerold-Stiftung vergibt Stipendien an junge Nachwuchs-Journalisten wie ihn und fördert die Ausbildungsstätten.
               Wir glauben, das wäre auch in Felix' Sinn gewesen.
             </p>
         </div>
