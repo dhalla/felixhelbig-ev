@@ -232,8 +232,9 @@
             <div class="col-md-5">
                 <h3>2014</h3>
             <p>
-              Auch in diesem Jahr möchten wir einen gemeinnützigen Verein mit einer Spende aus den Einnahmen der Veranstaltung unterstützen.
-              Noch sind wir auf der Suche bzw. mit der Auswahl beschäftigt, wissen aber sicher bald mehr.
+              Auch in diesem Jahr möchten wir eine gemeinnützige Stiftung mit einer Spende aus den Einnahmen der Veranstaltung unterstützen: Die der Frankfurter Rundschau nahestehende <a href="http://www.karl-gerold-stiftung.de/" target="_blank">Karl-Gerold-Stiftung</a>.
+              Die Karl-Gerold-Stiftung vergibt Stipendien an junge Nachwuchs-Journalisten und fördert deren Ausbildungsstätten.
+
             </p>
         </div>
         <div class="col-md-1"></div>
