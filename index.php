@@ -80,7 +80,7 @@
   <div class="container main-container">
 
     <header>
-        <img src="/assets/img/tee_2014.jpg" class="img-responsive" alt="27.11. PIK DAME, FFM" width="1140">
+        <img src="/assets/img/tee_2015.png" class="img-responsive" alt="27.11. PIK DAME, FFM" width="1140">
     </header>
 
     <article id="party">
@@ -160,7 +160,7 @@
             <div class="col-md-5">
                 <h3>Was und warum?</h3>
                 <p>
-                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!
+                  Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
                 </p>
                 <h3>Never forget!</h3>
                 <p>Fast drei Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig. Und das soll er auch für alle anderen sein. Deswegen feiern wir Ihn. Wieder da wo er lebte. Wieder da wo er feierte. Wieder mit Euch. Wieder bis es hell wird. <a href="#charity">Wieder sind Spenden gerne gesehen!</a></p>
@@ -221,7 +221,13 @@
             <div class="col-md-1"></div>
             <div class="col-md-10">
               <h3>2015</h3>
-              <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor.</p>
+              <p>Um die Arbeit von Felix auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie in den vorherigen Jahren spenden.</p>
+              <p>
+                Wir haben uns bisher auf die Förderung journalistischer Nachwuchsarbeit konzentriert.
+                In diesem Jahr allerdings möchten wir unseren Fokus aufgrund der aktuellen politischen und humanitären Lage auf die Lage der Flüchtlinge in und um Frankfurt richten.
+                Die Einnahmen der Veranstaltung kommen daher einem lokalen, gemeinnützigen Verein zur Flüchtlingshilfe zu Gute.
+              </p>
+              <p>Felix hat sich Zeit seines Lebens gegen Rassismus und Fremdenfeindlichkeit stark gemacht, und wir sind sicher, dass eine derartige Verwendung in seinem Sinne gewesen wäre.</p>
             </div>
             <div class="col-md-1"></div>
         </div>
@@ -231,21 +237,16 @@
             <div class="col-md-5">
               <h3>2014</h3>
               <p>
-                Auch in diesem Jahr möchten wir eine gemeinnützige Stiftung mit einer Spende aus den Einnahmen der Veranstaltung unterstützen: Die der Frankfurter Rundschau nahestehende <a href="http://www.karl-gerold-stiftung.de/" target="_blank">Karl-Gerold-Stiftung</a>.
-                </p>
-              <p>
-                Die Karl-Gerold-Stiftung vergibt Stipendien an junge Nachwuchs-Journalisten wie ihn und fördert die Ausbildungsstätten.
-                Wir glauben, das wäre auch in Felix' Sinn gewesen.
+                Auch in 2014 konnten wir ca. 1000 Euro sammeln, die der Karl Gerold-Stiftung zu Gute kamen.
+                Die <a href="http://www.karl-gerold-stiftung.de/" target="_blank">Karl Gerold-Stiftung</a> steht der Frankfurter Rundschau nahe,
+                vergibt Stipendien an junge Nachwuchs-Journalisten wie Felix und fördert die entsprechenden Ausbildungsstätten.
               </p>
             </div>
             <div class="col-md-5">
               <h3>2013</h3>
               <p>
-                Um seine Arbeit auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie im vorherigen Jahr spenden.
-              </p>
-              <p>
-                Damals konnten wir 1000 Euro an Investigate e.V. überweisen (<a href="http://www.investigate-ev.net/presse/presse-mitteilungen/" target="_blank">Pressemitteilung von Investigate e.V.</a>).
-                Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen, aufklären und Journalisten fördern.
+                2013, im ersten Jahr dieser Veranstaltungsreihe, konnten wir über 1000 Euro an Investigate e.V. überweisen (<a href="http://www.investigate-ev.net/presse/presse-mitteilungen/" target="_blank">Pressemitteilung von Investigate e.V.</a>).
+                Der Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen, aufklären und Journalisten fördern.
               <p>
             </div>
             <div class="col-md-1"></div>
