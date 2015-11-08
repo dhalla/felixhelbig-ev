@@ -41,7 +41,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://www.taunuseckeelbe.de">
   <meta property="og:image" content="http://www.taunuseckeelbe.de/assets/img/logo_fb.jpg">
-  <meta property="og:description" content="29.11. // 23:00 // Pik-Dame FFM // Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!">
+  <meta property="og:description" content="27.11. // 23:00 // Pik-Dame FFM // Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!">
   <meta property="og:site_name" content="TAUNUS.ECKE.ELBE">
 
 </head>
@@ -80,7 +80,7 @@
   <div class="container main-container">
 
     <header>
-        <img src="/assets/img/tee_2014.jpg" class="img-responsive" alt="05.12. PIK DAME, FFM" width="1140">
+        <img src="/assets/img/tee_2014.jpg" class="img-responsive" alt="27.11. PIK DAME, FFM" width="1140">
     </header>
 
     <article id="party">
@@ -97,7 +97,7 @@
                   <dt>Wo</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></dd>
                   <dt>Wann</dt>
-                  <dd>Am 5. Dezember 2014</dd>
+                  <dd>Am 27. November 2015</dd>
                   <dt>Musik</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. NO RULES DISCO.</a></dd>
                   <dt>Einlass</dt>
@@ -163,7 +163,7 @@
                   Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird. Kommt alle!
                 </p>
                 <h3>Never forget!</h3>
-                <p>Fast zwei Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig. Und das soll er auch für alle anderen sein. Deswegen feiern wir Ihn. Wieder da wo er lebte. Wieder da wo er feierte. Wieder mit Euch. Wieder bis es hell wird. <a href="#charity">Wieder sind Spenden gerne gesehen!</a></p>
+                <p>Fast drei Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig. Und das soll er auch für alle anderen sein. Deswegen feiern wir Ihn. Wieder da wo er lebte. Wieder da wo er feierte. Wieder mit Euch. Wieder bis es hell wird. <a href="#charity">Wieder sind Spenden gerne gesehen!</a></p>
                 <!-- AddThis Button BEGIN -->
                 <div class="addthis_toolbox addthis_default_style ">
                   <a class="addthis_button_preferred_1"></a>
@@ -207,7 +207,7 @@
                 <p>
                   Felix war ein großartiger Freund und fantastischer Mensch, mit einmaligem Humor und einer ehrlichen Herzlichkeit. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.                </p>
                 <p>
-                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2014 wäre Felix 34 Jahre alt geworden.
+                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2015 wäre Felix 35 Jahre alt geworden.
                 </p>
             </div>
         </div>
@@ -219,6 +219,25 @@
 
         <div class="row">
             <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <h3>2015</h3>
+              <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor.</p>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+              <h3>2014</h3>
+              <p>
+                Auch in diesem Jahr möchten wir eine gemeinnützige Stiftung mit einer Spende aus den Einnahmen der Veranstaltung unterstützen: Die der Frankfurter Rundschau nahestehende <a href="http://www.karl-gerold-stiftung.de/" target="_blank">Karl-Gerold-Stiftung</a>.
+                </p>
+              <p>
+                Die Karl-Gerold-Stiftung vergibt Stipendien an junge Nachwuchs-Journalisten wie ihn und fördert die Ausbildungsstätten.
+                Wir glauben, das wäre auch in Felix' Sinn gewesen.
+              </p>
+            </div>
             <div class="col-md-5">
               <h3>2013</h3>
               <p>
@@ -229,17 +248,8 @@
                 Dieser Verein unterstützt Menschen, die wie Felix über den Tellerrand schauen, aufklären und Journalisten fördern.
               <p>
             </div>
-            <div class="col-md-5">
-                <h3>2014</h3>
-            <p>
-              Auch in diesem Jahr möchten wir eine gemeinnützige Stiftung mit einer Spende aus den Einnahmen der Veranstaltung unterstützen: Die der Frankfurter Rundschau nahestehende <a href="http://www.karl-gerold-stiftung.de/" target="_blank">Karl-Gerold-Stiftung</a>.
-              </p>
-            <p>
-              Die Karl-Gerold-Stiftung vergibt Stipendien an junge Nachwuchs-Journalisten wie ihn und fördert die Ausbildungsstätten.
-              Wir glauben, das wäre auch in Felix' Sinn gewesen.
-            </p>
+            <div class="col-md-1"></div>
         </div>
-        <div class="col-md-1"></div>
 
     </article>
 
@@ -275,7 +285,7 @@
     <hr>
 
     <footer>
-        <p>&copy; TAUNUS.ECKE.ELBE 2013 | <a href="#" data-toggle="modal" data-target="#anbieter">Anbieter</a></p>
+        <p>&copy; TAUNUS.ECKE.ELBE 2015 | <a href="#" data-toggle="modal" data-target="#anbieter">Anbieter</a></p>
 
         <!-- Modal -->
         <div class="modal fade" id="anbieter" tabindex="-1" >
