@@ -163,7 +163,11 @@
                   Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
                 </p>
                 <h3>Never forget!</h3>
-                <p>Fast drei Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig. Und das soll er auch für alle anderen sein. Deswegen feiern wir Ihn. Wieder da wo er lebte. Wieder da wo er feierte. Wieder mit Euch. Wieder bis es hell wird. <a href="#charity">Wieder sind Spenden gerne gesehen!</a></p>
+                <p>Fast drei Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig.
+                  Und das soll er auch für alle anderen sein.
+                  Deswegen gedenken wir ihm. Wieder da wo er lebte, liebte und feierte. Wieder mit euch. Wieder bis es hell wird.
+                  <a href="#charity">Wieder sind Spenden gerne gesehen!</a>
+                </p>
                 <!-- AddThis Button BEGIN -->
                 <div class="addthis_toolbox addthis_default_style ">
                   <a class="addthis_button_preferred_1"></a>
