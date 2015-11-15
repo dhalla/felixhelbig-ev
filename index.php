@@ -228,10 +228,11 @@
               <p>Um die Arbeit von Felix auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie in den vorherigen Jahren spenden.</p>
               <p>
                 Wir haben uns bisher auf die Förderung journalistischer Nachwuchsarbeit konzentriert.
-                In diesem Jahr allerdings möchten wir unseren Fokus aufgrund der aktuellen politischen und humanitären Lage auf die Lage der Flüchtlinge in und um Frankfurt richten.
-                Die Einnahmen der Veranstaltung kommen daher einem lokalen, gemeinnützigen Verein zur Flüchtlingshilfe zu Gute.
+                In diesem Jahr allerdings möchten wir unseren Fokus aufgrund der aktuellen politischen und humanitären Lage auf die
+                <a href="http://www.fluechtlingshilfe-neu-isenburg.de/" target="_blank">Flüchtlingshilfe Neu-Isenburg</a> richten.
+                Die Initiative bietet unbürokratische Hilfe zur Selbsthilfe an, organisiert z.B. Sprachkurse, Kleidung für Minderjährige, Rechtshilfe oder Dolmetscher.
               </p>
-              <p>Felix hat sich Zeit seines Lebens gegen Rassismus und Fremdenfeindlichkeit stark gemacht, und wir sind sicher, dass eine derartige Verwendung in seinem Sinne gewesen wäre.</p>
+              <p>Felix ist in Neu-Isenburg aufgewachsen, und hat sich Zeit seines Lebens gegen Rassismus und Fremdenfeindlichkeit stark gemacht. Wir sind sicher, dass eine derartige Verwendung der Einnahmen in seinem Sinne gewesen wäre.</p>
             </div>
             <div class="col-md-1"></div>
         </div>
