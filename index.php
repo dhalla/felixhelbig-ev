@@ -80,7 +80,7 @@
   <div class="container main-container">
 
     <header>
-        <img src="/assets/img/tee_2015.png" class="img-responsive" alt="27.11. PIK DAME, FFM" width="1140">
+        <img src="/assets/img/pracht-header_940x335.png" class="img-responsive" alt="25.11. BAR PRACHT, FFM" width="1140">
     </header>
 
     <article id="party">
@@ -92,7 +92,7 @@
             <div class="col-md-1"></div>
 
             <div class="col-md-5">
-                <h3>TAUNUS.ECKE.ELBE</h3>
+                <h3>TAUNUS.ECKE.ELBExPRACHT</h3>
                 <dl class="dl-horizontal">
                   <dt>Wo</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></dd>
