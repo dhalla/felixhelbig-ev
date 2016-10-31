@@ -95,13 +95,13 @@
                 <h3>TAUNUS.ECKE.ELBExPRACHT</h3>
                 <dl class="dl-horizontal">
                   <dt>Wo</dt>
-                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Nachtclub Pik-Dame // FFM</a></dd>
+                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Bar Pracht // FFM</a></dd>
                   <dt>Wann</dt>
-                  <dd>Am 27. November 2015</dd>
+                  <dd>Am 25. November 2016</dd>
                   <dt>Musik</dt>
                   <dd><a href="#" data-toggle="modal" data-target="#larryvanhousen">Larry van Housen. NO RULES DISCO.</a></dd>
                   <dt>Einlass</dt>
-                  <dd>Ab 23:00 Uhr</dd>
+                  <dd>Ab 22:00 Uhr</dd>
                 </dl>
 
                 <!-- Larry van Housen -->
