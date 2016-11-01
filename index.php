@@ -92,7 +92,7 @@
             <div class="col-md-1"></div>
 
             <div class="col-md-5">
-                <h3>TAUNUS.ECKE.ELBE&nbsp;<span style="color: #e7e7e7; font-weight: bold;">x</span>&nbsp;NIDDA</h3>
+                <h3>TAUNUS.ECKE.ELBE&nbsp;<span style="color: #5C0101; font-weight: bold;">x</span>&nbsp;NIDDA</h3>
                 <dl class="dl-horizontal">
                   <dt>Wo</dt>
                   <dd><a href="http://barpracht.de/" target="_blank">Bar Pracht // FFM</a></dd>
