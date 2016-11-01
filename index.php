@@ -92,10 +92,10 @@
             <div class="col-md-1"></div>
 
             <div class="col-md-5">
-                <h3>TAUNUS.ECKE.ELBExPRACHT</h3>
+                <h3>TAUNUS.ECKE.ELBE&nsbp;<style="color: #e7e7e7">x</style>&nbsp;NIDDA</h3>
                 <dl class="dl-horizontal">
                   <dt>Wo</dt>
-                  <dd><a href="#" data-toggle="modal" data-target="#pikdame">Bar Pracht // FFM</a></dd>
+                  <dd><a href="http://barpracht.de/" target="_blank">Bar Pracht // FFM</a></dd>
                   <dt>Wann</dt>
                   <dd>Am 25. November 2016</dd>
                   <dt>Musik</dt>
@@ -163,7 +163,7 @@
                   Taunus.Ecke.Elbe. Dort lebte Felix. Dort feierte Felix. Dort feiern wir. Für Felix. Die ganze Nacht. Direkt unter seinem Balkon. Bis es hell wird.
                 </p>
                 <h3>Never forget!</h3>
-                <p>Fast drei Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig.
+                <p>Fast vier Jahre sind seit seinem Tod vergangen, doch Felix ist für uns immer allgegenwärtig.
                   Und das soll er auch für alle anderen sein.
                   Deswegen gedenken wir ihm. Wieder da wo er lebte, liebte und feierte. Wieder mit euch. Wieder bis es hell wird.
                   <a href="#charity">Wieder sind Spenden gerne gesehen!</a>
@@ -211,7 +211,7 @@
                 <p>
                   Felix war ein großartiger Freund und fantastischer Mensch, mit einmaligem Humor und einer ehrlichen Herzlichkeit. Er liebte das Leben und genoss es jeden Tag. Viele Freunde verbinden unvergessene Momente mit ihm, egal ob auf seinem Balkon direkt im Bahnhofsviertel, bei seiner geliebten Eintracht oder auf gemeinsamen Reisen und Festivals.                </p>
                 <p>
-                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2015 wäre Felix 35 Jahre alt geworden.
+                  Wir wollen gemeinsam seinen Geburtstag feiern: Am 29.11.2016 wäre Felix 36 Jahre alt geworden.
                 </p>
             </div>
         </div>
