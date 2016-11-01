@@ -223,16 +223,20 @@
 
         <div class="row">
             <div class="col-md-1"></div>
-            <div class="col-md-10">
-              <h3>2015</h3>
-              <p>Um die Arbeit von Felix auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie in den vorherigen Jahren spenden.</p>
+            <div class="col-md-5">
+              <h3>2016</h3>
               <p>
-                Wir haben uns bisher auf die Förderung journalistischer Nachwuchsarbeit konzentriert.
-                In diesem Jahr allerdings möchten wir unseren Fokus aufgrund der aktuellen politischen und humanitären Lage auf die
-                <a href="http://www.fluechtlingshilfe-neu-isenburg.de/" target="_blank">Flüchtlingshilfe Neu-Isenburg</a> richten.
-                Die Initiative bietet unbürokratische Hilfe zur Selbsthilfe an, organisiert z.B. Sprachkurse, Kleidung für Minderjährige, Rechtshilfe oder Dolmetscher.
+                Um die Arbeit von Felix auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie in den vorherigen Jahren spenden.
+                Dazu wird in der Bar Pracht eine Spendenbox geben. Wir freuen uns über jeden Euro, der zusammenkommt.
               </p>
-              <p>Felix ist in Neu-Isenburg aufgewachsen, und hat sich Zeit seines Lebens gegen Rassismus und Fremdenfeindlichkeit stark gemacht. Wir sind sicher, dass eine derartige Verwendung der Einnahmen in seinem Sinne gewesen wäre.</p>
+            </div>
+            <div class="col-md-5">
+              <h3>2015</h3>
+                Wir haben uns bisher auf die Förderung journalistischer Nachwuchsarbeit konzentriert.
+              <p>
+                Felix ist in Neu-Isenburg aufgewachsen, und hat sich Zeit seines Lebens gegen Rassismus und Fremdenfeindlichkeit stark gemacht.
+                In 2015 haben wir den Fokus aufgrund der aktuellen politischen und humanitären Lage auf die <a href="http://www.fluechtlingshilfe-neu-isenburg.de/" target="_blank">Flüchtlingshilfe Neu-Isenburg</a> gerichtet, und die Einnahmen dem Verein gespendet.
+              </p>
             </div>
             <div class="col-md-1"></div>
         </div>
@@ -291,7 +295,7 @@
     <hr>
 
     <footer>
-        <p>&copy; TAUNUS.ECKE.ELBE 2015 | <a href="#" data-toggle="modal" data-target="#anbieter">Anbieter</a></p>
+        <p>&copy; TAUNUS.ECKE.ELBE 2016 | <a href="#" data-toggle="modal" data-target="#anbieter">Anbieter</a></p>
 
         <!-- Modal -->
         <div class="modal fade" id="anbieter" tabindex="-1" >
@@ -309,7 +313,7 @@
                     Mobil: 0163 5677633
                     <br><br>
                     <hr>
-                    Bilder mit freundlicher Genehmigung von Ullrich Mattner, flickr: <a href="http://flic.kr/p/9hU1aw">http://flic.kr/p/9hU1aw</a>
+                    Bilder mit freundlicher Genehmigung von <a href="http://umattner.de/" target="_blank">Ullrich Mattner</a>, flickr: <a href="http://flic.kr/p/9hU1aw">http://flic.kr/p/9hU1aw</a>
                 </p>
               </div>
               <div class="modal-footer">
