@@ -232,7 +232,6 @@
             </div>
             <div class="col-md-5">
               <h3>2015</h3>
-                Wir haben uns bisher auf die Förderung journalistischer Nachwuchsarbeit konzentriert.
               <p>
                 Felix ist in Neu-Isenburg aufgewachsen, und hat sich Zeit seines Lebens gegen Rassismus und Fremdenfeindlichkeit stark gemacht.
                 In 2015 haben wir den Fokus aufgrund der aktuellen politischen und humanitären Lage auf die <a href="http://www.fluechtlingshilfe-neu-isenburg.de/" target="_blank">Flüchtlingshilfe Neu-Isenburg</a> gerichtet, und die Einnahmen dem Verein gespendet.
