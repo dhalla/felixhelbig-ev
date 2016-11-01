@@ -227,6 +227,8 @@
               <h3>2016</h3>
               <p>
                 Um die Arbeit von Felix auch über seinen Tod hinaus zu würdigen, wollen wir die Einnahmen aus der Party wie in den vorherigen Jahren spenden.
+              </p>
+              <p>
                 Dazu wird in der Bar Pracht eine Spendenbox geben. Wir freuen uns über jeden Euro, der zusammenkommt.
               </p>
             </div>
